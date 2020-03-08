@@ -1,0 +1,12 @@
+{
+  "bindings": [
+    {
+      "name": "myQueueItem",
+      "type": "queueTrigger",
+      "direction": "in",
+      "queueName": "subscriptions-to-ensure",
+      "connection": "AZURE_STORAGE_CONNECTION_STRING"
+    }
+  ],
+  "scriptFile": "../dist/EnsureSubscription/index.js"
+}
