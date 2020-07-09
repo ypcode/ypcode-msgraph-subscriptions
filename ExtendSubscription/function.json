@@ -8,5 +8,5 @@
       "connection": "AZURE_STORAGE_CONNECTION_STRING"
     }
   ],
-  "scriptFile": "../dist/EnsureSubscription/index.js"
+  "scriptFile": "../dist/ExtendSubscription/index.js"
 }

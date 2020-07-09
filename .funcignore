@@ -3,5 +3,6 @@
 .git*
 .vscode
 local.settings.json
+local.settings.*.json
 test
 tsconfig.json
